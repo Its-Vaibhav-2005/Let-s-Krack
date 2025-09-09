@@ -1,3 +1,6 @@
+
+![Table flowchart](https://ik.imagekit.io/Flowchart/Let's%20kraack%20_flowchart.png?updatedAt=1757420848316)
+
 # Tracks
 | Column     | Type        | Constraints              |
 |------------|------------|---------------------------|
